@@ -1,0 +1,30 @@
+{
+  "name": "mon_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio de Saliou Diop – Développeur Web Full Stack",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalediop/updateportfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zalediop/updateportfolio/issues"
+  },
+  "homepage": "https://github.com/zalediop/updateportfolio#readme",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.3"
+  },
+  "dependencies": {
+    "vue": "^3.5.39"
+  }
+}
